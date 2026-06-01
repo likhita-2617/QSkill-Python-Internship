@@ -1,0 +1,28 @@
+==================================================
+TASK 1: STUDENT PERFORMANCE DATA ANALYSIS INSIGHTS
+==================================================
+Intern Name: Likhita Palla
+Role: Python Development Intern
+Date: June 1, 2026
+
+1. ANALYSIS OVERVIEW:
+   Developed a data processing and visualization pipeline using 
+   Pandas, Matplotlib, and Seaborn to analyze student academic 
+   performance tracking metrics across different technical courses.
+
+2. PERFORMANCE & DESCRIPTIVE METRICS:
+   * Average Exam Score: 82.50%
+   * Average Hours Studied: 7.17 Hours
+   * Total Records Processed: 6 Students (Python & Data Science cohorts)
+
+3. STRATEGIC OBSERVATIONS:
+   * Performance Spread (Bar Chart): Visual analysis isolates individual 
+     achievement variance. Likhita registered the maximum cohort score (95%), 
+     while Suresh marked the baseline performance threshold (65%).
+   * Corelation Trend (Scatter Plot): The plotting reveals a decisive positive 
+     linear correlation between time allocation and grade results. Higher study 
+     hours scale directly to proportional grade improvements.
+   * Multi-Variable Interaction (Heatmap): The system confirms significant 
+     positive mathematical alignment across Hours_Studied, Score, and 
+     Attendance_Pct, proving that attendance and active study time act as the 
+     primary drivers for peak academic outcomes.

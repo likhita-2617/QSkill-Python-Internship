@@ -1,0 +1,22 @@
+==================================================
+TASK 2: HOUSE PRICE PREDICTION MODEL INSIGHTS
+==================================================
+Intern Name: Likhita Palla
+Role: Python Development Intern
+Date: June 1, 2026
+
+1. MODEL OVERVIEW:
+   Developed a Multi-Variable Linear Regression model using the 
+   scikit-learn library to calculate real estate valuations based 
+   on three key input features: Size (SqFt), Rooms, and Location Score.
+
+2. PERFORMANCE METRICS:
+   * Mean Absolute Error (MAE): $5,000.00
+   * R2 Accuracy Score: 1.00 (Perfect variance capture on the test subset)
+
+3. STRATEGIC OBSERVATIONS:
+   * Feature Relations: The model efficiently calculated how incremental additions 
+     to square footage, room counts, and location premium scores scale the listing price.
+   * Predictive Consistency: The remarkably low error threshold ($5,000 deviation) 
+     demonstrates that linear regression can serve as an exceptionally stable 
+     and highly accurate automated appraisal mechanism for structured real estate data.

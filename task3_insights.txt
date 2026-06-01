@@ -1,0 +1,22 @@
+==================================================
+TASK 3: MATRIX OPERATIONS TOOL INSIGHTS
+==================================================
+Intern Name: Likhita Palla
+Role: Python Development Intern
+Date: June 1, 2026
+
+1. APPLICATION OVERVIEW:
+   Developed an interactive, terminal-based Matrix Computational Tool using 
+   the NumPy library to execute multi-dimensional vector and matrix mathematics.
+
+2. SUPPORTED COMPUTE FUNCTIONS:
+   * Element-wise operations: Matrix Addition and Subtraction (`np.add`, `np.subtract`)
+   * Vector Product calculation: Matrix Multiplication (`np.dot`)
+   * Dimensional flipping: Matrix Transpose (`matrix.T`)
+   * Structural Value computation: Determinant Engine (`np.linalg.det`)
+
+3. STRATEGIC OBSERVATIONS:
+   * Input Resilience: Built input handlers to block math shape mismatch errors 
+     (e.g., stopping non-square determinants or illegal dimensions during multiplication).
+   * Computational Efficiency: Leveraging NumPy arrays routes computations through 
+     compiled C-extensions, executing vector operations instantly without slow loops.
