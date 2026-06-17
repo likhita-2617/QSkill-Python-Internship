@@ -5,8 +5,6 @@ This repository contains the tasks completed for the QSkill Python Development I
 ## Internship Details
 
 - Domain: Python Development
-- Start Date: 1 June 2026
-- End Date: 1 July 2026
 
 ## Tasks Completed
 
